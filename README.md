@@ -63,7 +63,9 @@ streamlit run main.py
  - The system will provide an answer based on the context stored in the vector database.
 
 ## Project structure
-![alt text](image-2.png)
+
+
+ ![alt text](image-2.png)
 
 
 
