@@ -64,17 +64,7 @@ streamlit run main.py
 
 ## Project structure
 
-
--qa-app/
-├── main.py              # Main Streamlit application for the web interface
-├── src/
-│   ├── vector_db.py     # Handles vector database creation and loading using FAISS
-│   └── qa_chain.py      # Manages the QA chain using Langchain for query processing
-├── .env                 # Environment file containing sensitive API keys (e.g., OpenAI)
-├── requirements.txt     # List of Python dependencies
-├── requirements_dev.txt # Development dependencies (for testing, linting, etc.)
-└── images/
-    └── result.png       # Example image of the result output (add your image here)
+![alt text](image-1.png)
 
 
 
