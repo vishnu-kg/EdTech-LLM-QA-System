@@ -64,7 +64,9 @@ streamlit run main.py
 
 ## Project structure
 
-![alt text](image-1.png)
+    ![image-2.png](attachment:image-2.png)
+
+
 
 
 
